@@ -3,7 +3,7 @@
 ##Airbnb Awesome Clone, made with React 
 
 
-[Airbnb Clone](blob:https://vercel.com/dec0d8a5-831e-42fa-9f84-cce407e65231)
+[Airbnb Clone](public/airbnbdemo.png)
 
 
 
