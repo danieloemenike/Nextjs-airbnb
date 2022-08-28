@@ -12,16 +12,16 @@ function Map({searchResults}) {
     }))
    
     const center = getCenter(coordinates)
-   console.log(coordinates)
+
 
     const [viewPort,setViewPort] = useState({
         width:"100%",
         height:"100%",
         latitude:center.latitude,
         longitude:center.longitude,
-        zoom:11,
+        zoom:3,
     })
-
+   
   
     return (
         <ReactMapGL
@@ -30,7 +30,7 @@ function Map({searchResults}) {
         {...viewPort}
         onViewPortChange={(nextViewPort) => setViewPort(nextViewPort)}
         >
-        {searchResults.map(result=>{
+        {searchResults.map((result)=>{
            return <div key= {result.id}>
             <Marker
                 longitude={result.long}
@@ -44,18 +44,16 @@ function Map({searchResults}) {
             </Marker>
             {/* The popup for the marker */}
 
-                {selectedLocation.long === result.long ? (
+                {selectedLocation.long === result.long && (
                 <Popup
                 onClose={()=> setSelectedLocation({})}
                 closeOnClick={true}
-                latitude={result.lat}
-                longitude={result.long}
+                latitude={selectedLocation.lat}
+                longitude={selectedLocation.long}
                 >
-                {result.title}
+             {result.long}
                 </Popup>
-            ) : (
-                false
-             )}
+            ) }
             </div>
         })}
         </ReactMapGL>
