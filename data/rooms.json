@@ -1,0 +1,92 @@
+[
+	{
+		"id": "1",
+	"img": "/displayHouses/rent1.jpg",
+	"location": "London",
+    "description":"1 bed, 2 bathroom, 1 kitchen",
+    "star": 5.0,
+    "price":"N40K/night",
+    "total":"N400K/total",
+    "long": -89.500000,
+    "lat": 44.500000,
+    "title":"Presidential Suite"
+}, {
+	"id": "2",
+	"img": "/displayHouses/rent2.jpg",
+	"location": "Manchester",
+    "description":"1 bed, 2 bathroom, 1 kitchen",
+    "star": 4.7,
+    "price":"N40K/night",
+    "total":"N400K/total",
+    "long": -80.500000,
+    "lat": 39.000000,
+    "title":"Spacious beautiful home"
+}, {
+	"id": "3",
+	"img": "/displayHouses/rent3.jpg",
+	"location": "Liverpool",
+    "description":"1 bed, 2 bathroom, 1 kitchen",
+    "star": 4,
+    "price":"N40K/night",
+    "total":"N400K/total",
+    "long": -0.0323454,
+    "lat": 51.23435434,
+    "title":"The liverpool blue room"
+}, {
+	"id": "4",
+	"img": "/displayHouses/rent4.jpg",
+	"location": "York",
+    "description":"1 bed, 2 bathroom, 1 kitchen",
+    "star": 4,
+    "price":"N40K/night",
+    "total":"N400K/total",
+    "long": -72.699997,
+    "lat": 44.000000,
+    "title":"Modern home"
+}, {
+	"id": "5",
+	"img": "/displayHouses/rent5.jpg",
+	"location": "Cardiff",
+    "description":"1 bed, 2 bathroom, 1 kitchen",
+    "star": 4,
+    "price":"N40K/night",
+    "total":"N400K/total",
+    "long": -100.000000,
+    "lat": 31.000000,
+    "title":"Spacious Peaceful home"
+}, {
+	"id": "6",
+	"img": "/displayHouses/rent6.jpg",
+	"location": "Birkenhead",
+    "description":"1 bed, 2 bathroom, 1 kitchen",
+    "star": 4,
+    "price":"N40K/night",
+    "total":"N400K/total",
+    "long":-100.000000,
+    "lat": 44.500000,
+    "title":"Spacious beautiful home"
+}, {
+	"id": "7",
+	"img": "/displayHouses/rent7.jpg",
+	"location": "Newquay",
+    "description":"1 bed, 2 bathroom, 1 kitchen",
+    "star": 4,
+    "price":"N40K/night",
+    "total":"N400K/total",
+    "long": -92.603760,
+    "lat": 38.573936,
+    "title":"The blue home"
+}, {
+	"id": "8",
+	"img": "/displayHouses/rent8.jpg",
+	"location": "Hove",
+    "description":"1 bed, 2 bathroom, 1 kitchen",
+    "star": 4,
+    "price":"N40K/night",
+    "total":"N400K/total",
+    "long":-81.760254,
+    "lat": 27.994402,
+    "title":"Luxury Apartment"
+}
+
+]

@@ -1,0 +1,27 @@
+[
+    
+    {
+	"id": "1",
+	"img": "/displayHouses/rent6.jpg",
+	"title": "Outdoor Get-away"
+
+},
+{
+	"id": "2",
+	"img": "/displayHouses/rent2.jpg",
+	"title": "Unique Stays"
+
+},
+{
+	"id": "3",
+	"img": "/displayHouses/rent3.jpg",
+	"title": "Entire Houses"
+
+},
+{
+	"id": "4",
+	"img": "/displayHouses/rent4.jpg",
+	"title": "Not allowed"
+
+}
+]

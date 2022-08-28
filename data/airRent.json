@@ -1,0 +1,43 @@
+[
+	{
+		"id": "1",
+	"img": "/displayHouses/rent1.jpg",
+	"location": "London",
+	"distance": "45-minute drive"
+}, {
+	"id": "2",
+	"img": "/displayHouses/rent2.jpg",
+	"location": "Manchester",
+	"distance": "4.5-hour drive"
+}, {
+	"id": "3",
+	"img": "/displayHouses/rent3.jpg",
+	"location": "Liverpool",
+	"distance": "4.5-hour drive"
+}, {
+	"id": "4",
+	"img": "/displayHouses/rent4.jpg",
+	"location": "York",
+	"distance": "4-hour drive"
+}, {
+	"id": "5",
+	"img": "/displayHouses/rent5.jpg",
+	"location": "Cardiff",
+	"distance": "45-minute drive"
+}, {
+	"id": "6",
+	"img": "/displayHouses/rent6.jpg",
+	"location": "Birkenhead",
+	"distance": "4.5-hour drive"
+}, {
+	"id": "7",
+	"img": "/displayHouses/rent7.jpg",
+	"location": "Newquay",
+	"distance": "6-hour drive"
+}, {
+	"id": "8",
+	"img": "/displayHouses/rent8.jpg",
+	"location": "Hove",
+	"distance": "2-hour drive"
+}
+]
