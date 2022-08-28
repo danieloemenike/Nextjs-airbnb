@@ -1,6 +1,6 @@
 import ReactMapGL,{Marker,Popup} from 'react-map-gl';
 import {useState} from "react"
-
+import "mapbox-gl/dist/mapbox-gl.css"
 import getCenter from 'geolib/es/getCenter'
 
 function Map({searchResults}) {
