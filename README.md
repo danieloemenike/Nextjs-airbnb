@@ -3,7 +3,7 @@
 ##Airbnb Awesome Clone, made with React 
 
 
-[Airbnb Clone](public/airbnbdemo.png)
+![Airbnb Clone](public/airbnbdemo.png)
 
 
 
