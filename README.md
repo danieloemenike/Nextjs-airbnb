@@ -3,6 +3,7 @@
 ##Airbnb Awesome Clone, with NextJs 
 
 - Calendar and Map Features included
+- Mock Json API data was used 
 
 
 ![Airbnb Clone](public/airbnbdemo.png)
